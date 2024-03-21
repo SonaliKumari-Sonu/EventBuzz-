@@ -1,1 +1,1 @@
-# EventBuzz-
+# EventBuzz
